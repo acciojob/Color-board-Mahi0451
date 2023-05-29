@@ -6,6 +6,9 @@
     gap:3px;
     justify-content: center;
     align-content: center;
+	border:40px solid black;
+	width:700px;
+	background:black;
 
 }
 .square{
